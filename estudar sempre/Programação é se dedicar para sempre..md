@@ -4,7 +4,7 @@
 
 ### "Tenha foco, tenha um tempo para estudar e tenha fé" , essas são as palavras que digo para mim todas as manhãs !!!
 
-###### Ass: Moretto
+###### By: Moretto
 
 #####obs: trabalho de Git/GitHub
 
